@@ -14,6 +14,7 @@ Sponsor this organization to help us get the funding we need to continue working
 
 * [Donate with Bitcoin Lightning](https://getalby.com/p/thebitcoinhole) ⚡️ [thebitcoinhole@getalby.com](https://getalby.com/p/thebitcoinhole)
 * [Donate with PayPal or a credit card using Ko-fi](https://ko-fi.com/thebitcoinhole)
+* [Donate on Patreon](https://www.patreon.com/TheBitcoinHole)
 
 ## Follow us
 * [Twitter](http://twitter.com/thebitcoinhole)
