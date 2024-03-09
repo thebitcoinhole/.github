@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to run your own Bitcoin node](https://medium.com/the-bitcoin-hole/reasons-to-run-your-own-bitcoin-node-7a14f7576ed4?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with Umbrel on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-umbrel-on-a-raspberry-pi-4-32a22535c4bb?source=rss----154fb07103ce---4)
 - [Bitcoin Self-Custody Best Practices](https://medium.com/the-bitcoin-hole/bitcoin-self-custody-best-practices-21dfe8d2b866?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with Citadel on a Raspberry Pi 5](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-citadel-on-a-raspberry-pi-5-0fd203584143?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with RaspiBlitz on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-raspiblitz-on-a-raspberry-pi-4-62a25e631150?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with MyNode on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-mynode-on-a-raspberry-pi-4-93d3dc126688?source=rss----154fb07103ce---4)
-- [How to set up a Bitcoin Node with Start9 on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-start9-on-a-raspberry-pi-4-a1f25e7f5546?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
