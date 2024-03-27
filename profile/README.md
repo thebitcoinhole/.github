@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to connect your Umbrel Node to Sentinel watch-only wallet](https://medium.com/the-bitcoin-hole/how-to-connect-your-umbrel-node-to-sentinel-watch-only-wallet-56bad68a019c?source=rss----154fb07103ce---4)
 - [A Journey Through Time: The Evolution of Major Reserve Currencies](https://medium.com/the-bitcoin-hole/a-journey-through-time-the-evolution-of-major-reserve-currencies-a65dc576070f?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with MyNode on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-mynode-on-a-raspberry-pi-4-6ab4cb1f551a?source=rss----154fb07103ce---4)
 - [Hardware Wallets: What is the Secure Element?](https://medium.com/the-bitcoin-hole/hardware-wallets-what-is-the-secure-element-715dec24d731?source=rss----154fb07103ce---4)
 - [A Beginner’s Guide to Economic Concepts](https://medium.com/the-bitcoin-hole/a-beginners-guide-to-economic-concepts-9d307a68c552?source=rss----154fb07103ce---4)
 - [Time Preference &amp; Bitcoin](https://medium.com/the-bitcoin-hole/time-preference-bitcoin-b3b69500a8ad?source=rss----154fb07103ce---4)
-- [How to set up a Bitcoin Node with Umbrel on a Raspberry Pi 5](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-umbrel-on-a-raspberry-pi-5-2fe3e47b4ac1?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
