@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to use a bitcoin hardware wallet](https://medium.com/the-bitcoin-hole/reasons-to-use-a-bitcoin-hardware-wallet-7994ea2e19a0?source=rss----154fb07103ce---4)
 - [Como instalar un nodo de Bitcoin en una Raspberry Pi 4](https://medium.com/the-bitcoin-hole/como-instalar-un-nodo-de-bitcoin-en-una-raspberry-pi-4-26437f7a9e3b?source=rss----154fb07103ce---4)
 - [¿Qué es un xpub, ypub o zpub?](https://medium.com/the-bitcoin-hole/qu%C3%A9-es-un-xpub-ypub-o-zpub-1c9d1ae1df6d?source=rss----154fb07103ce---4)
 - [How to connect your Umbrel Node to Sentinel watch-only wallet](https://medium.com/the-bitcoin-hole/how-to-connect-your-umbrel-node-to-sentinel-watch-only-wallet-56bad68a019c?source=rss----154fb07103ce---4)
 - [A Journey Through Time: The Evolution of Major Reserve Currencies](https://medium.com/the-bitcoin-hole/a-journey-through-time-the-evolution-of-major-reserve-currencies-a65dc576070f?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with MyNode on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-mynode-on-a-raspberry-pi-4-6ab4cb1f551a?source=rss----154fb07103ce---4)
-- [Hardware Wallets: What is the Secure Element?](https://medium.com/the-bitcoin-hole/hardware-wallets-what-is-the-secure-element-715dec24d731?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
