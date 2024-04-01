@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Bitcoin Multisig](https://medium.com/the-bitcoin-hole/exploring-bitcoin-multisig-33f1a70c9550?source=rss----154fb07103ce---4)
+- [The History of Money: From Bartering to the Fiat Standard](https://medium.com/the-bitcoin-hole/the-history-of-money-from-bartering-to-the-fiat-standard-0c0f58febb80?source=rss----154fb07103ce---4)
+- [Value4Value with Alby: BTC Lightning contributions from your audience](https://medium.com/the-bitcoin-hole/value4value-with-alby-btc-lightning-contributions-from-your-audience-ba71d35b39f7?source=rss----154fb07103ce---4)
 - [Planificación Sucesoria de Bitcoin](https://medium.com/the-bitcoin-hole/planificaci%C3%B3n-sucesoria-de-bitcoin-0026d6261c1f?source=rss----154fb07103ce---4)
 - [How do Bitcoin Private Keys work?](https://medium.com/the-bitcoin-hole/how-do-bitcoin-private-keys-work-b871f69fd8c7?source=rss----154fb07103ce---4)
 - [Reasons to use a bitcoin hardware wallet](https://medium.com/the-bitcoin-hole/reasons-to-use-a-bitcoin-hardware-wallet-7994ea2e19a0?source=rss----154fb07103ce---4)
-- [Como instalar un nodo de Bitcoin en una Raspberry Pi 4](https://medium.com/the-bitcoin-hole/como-instalar-un-nodo-de-bitcoin-en-una-raspberry-pi-4-26437f7a9e3b?source=rss----154fb07103ce---4)
-- [¿Qué es un xpub, ypub o zpub?](https://medium.com/the-bitcoin-hole/qu%C3%A9-es-un-xpub-ypub-o-zpub-1c9d1ae1df6d?source=rss----154fb07103ce---4)
-- [How to connect your Umbrel Node to Sentinel watch-only wallet](https://medium.com/the-bitcoin-hole/how-to-connect-your-umbrel-node-to-sentinel-watch-only-wallet-56bad68a019c?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
