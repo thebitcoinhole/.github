@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardware Wallets: Basic Concepts](https://medium.com/the-bitcoin-hole/hardware-wallets-basic-concepts-ce56cd457911?source=rss----154fb07103ce---4)
 - [In-Depth Review of “The Bitcoin Standard” by Saifedean Ammous](https://medium.com/the-bitcoin-hole/in-depth-review-of-the-bitcoin-standard-by-saifedean-ammous-d7136faacac1?source=rss----154fb07103ce---4)
 - [Exploring Bitcoin Multisig](https://medium.com/the-bitcoin-hole/exploring-bitcoin-multisig-33f1a70c9550?source=rss----154fb07103ce---4)
 - [The History of Money: From Bartering to the Fiat Standard](https://medium.com/the-bitcoin-hole/the-history-of-money-from-bartering-to-the-fiat-standard-0c0f58febb80?source=rss----154fb07103ce---4)
 - [Value4Value with Alby: BTC Lightning contributions from your audience](https://medium.com/the-bitcoin-hole/value4value-with-alby-btc-lightning-contributions-from-your-audience-ba71d35b39f7?source=rss----154fb07103ce---4)
 - [Planificación Sucesoria de Bitcoin](https://medium.com/the-bitcoin-hole/planificaci%C3%B3n-sucesoria-de-bitcoin-0026d6261c1f?source=rss----154fb07103ce---4)
-- [How do Bitcoin Private Keys work?](https://medium.com/the-bitcoin-hole/how-do-bitcoin-private-keys-work-b871f69fd8c7?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
