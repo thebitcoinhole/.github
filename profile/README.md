@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When do you need to replace your Bitcoin keys?](https://medium.com/the-bitcoin-hole/when-do-you-need-to-replace-your-bitcoin-keys-5a0a2fa306c6?source=rss----154fb07103ce---4)
 - [Is memorizing your seed phrase a good idea?](https://medium.com/the-bitcoin-hole/is-memorizing-your-seed-phrase-a-good-idea-676a09bc9cfb?source=rss----154fb07103ce---4)
 - [How to Safely store your Hardware Wallet Seed Phrase](https://medium.com/the-bitcoin-hole/how-to-safely-store-your-hardware-wallet-seed-phrase-bf3b984e64b3?source=rss----154fb07103ce---4)
 - [Listen to Earn: How to earn Bitcoin by listening to your favorite podcasts](https://medium.com/the-bitcoin-hole/listen-to-earn-how-to-earn-bitcoin-by-listening-to-your-favorite-podcasts-4852fa2a387e?source=rss----154fb07103ce---4)
 - [What is xpub, ypub and zpub?](https://medium.com/the-bitcoin-hole/what-is-xpub-ypub-and-zpub-6e402b4d3cfe?source=rss----154fb07103ce---4)
 - [How to buy Bitcoin without KYC using Relai](https://medium.com/the-bitcoin-hole/how-to-buy-bitcoin-without-kyc-using-relai-72f5bdf2f748?source=rss----154fb07103ce---4)
-- [Top strategies for earning Bitcoin](https://medium.com/the-bitcoin-hole/top-strategies-for-earning-bitcoin-7b208933cd13?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
