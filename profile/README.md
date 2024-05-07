@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose a Hardware Wallet](https://medium.com/the-bitcoin-hole/how-to-choose-a-hardware-wallet-c60c623f8697?source=rss----154fb07103ce---4)
 - [Comparing Hardware Wallets](https://medium.com/the-bitcoin-hole/comparing-hardware-wallets-cc77c41b80a1?source=rss----154fb07103ce---4)
 - [Comparing Bitcoin Software Wallets](https://medium.com/the-bitcoin-hole/comparing-bitcoin-software-wallets-6d8b2a444d19?source=rss----154fb07103ce---4)
 - [False myths about Bitcoin](https://medium.com/the-bitcoin-hole/false-myths-about-bitcoin-883832e7de91?source=rss----154fb07103ce---4)
 - [10 Tools and Security Tips to help you stay safe online](https://medium.com/the-bitcoin-hole/10-tools-and-security-tips-to-help-you-stay-safe-online-2e651b52f785?source=rss----154fb07103ce---4)
 - [When do you need to replace your Bitcoin keys?](https://medium.com/the-bitcoin-hole/when-do-you-need-to-replace-your-bitcoin-keys-5a0a2fa306c6?source=rss----154fb07103ce---4)
-- [Is memorizing your seed phrase a good idea?](https://medium.com/the-bitcoin-hole/is-memorizing-your-seed-phrase-a-good-idea-676a09bc9cfb?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
