@@ -1,12 +1,12 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set up a Bitcoin Node with MyNode on a Raspberry Pi 5](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-mynode-on-a-raspberry-pi-5-fb1bb0c63d85?source=rss----154fb07103ce---4)
+- [How to set up a Bitcoin Node with Citadel on a Raspberry Pi 4](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-citadel-on-a-raspberry-pi-4-645bf5a1b45c?source=rss----154fb07103ce---4)
 - [How to set up a Bitcoin Node with RaspiBlitz on a Raspberry Pi 5](https://medium.com/the-bitcoin-hole/how-to-set-up-a-bitcoin-node-with-raspiblitz-on-a-raspberry-pi-5-b00e07b2b875?source=rss----154fb07103ce---4)
 - [How to Choose a Hardware Wallet](https://medium.com/the-bitcoin-hole/how-to-choose-a-hardware-wallet-c60c623f8697?source=rss----154fb07103ce---4)
 - [Comparing Hardware Wallets](https://medium.com/the-bitcoin-hole/comparing-hardware-wallets-cc77c41b80a1?source=rss----154fb07103ce---4)
 - [Comparing Bitcoin Software Wallets](https://medium.com/the-bitcoin-hole/comparing-bitcoin-software-wallets-6d8b2a444d19?source=rss----154fb07103ce---4)
-- [False myths about Bitcoin](https://medium.com/the-bitcoin-hole/false-myths-about-bitcoin-883832e7de91?source=rss----154fb07103ce---4)
-- [10 Tools and Security Tips to help you stay safe online](https://medium.com/the-bitcoin-hole/10-tools-and-security-tips-to-help-you-stay-safe-online-2e651b52f785?source=rss----154fb07103ce---4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsor this organization
