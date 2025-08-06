@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1.8.7
+        with:
+          max_post_count: "6"
+          feed_list: "https://medium.com/feed/the-bitcoin-hole"
+          readme_path: profile/README.md
